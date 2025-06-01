@@ -11,7 +11,6 @@
 
 ---
 
-<img src="code.png" align="right" width="370" height="370" alt="Coding Illustration">
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="370" height="370" alt="Developer Coding GIF">
   <img src="[[https://cdn.iconscout.com/lottie/premium/thumb/embedded-system-6241414-5107187.gif](https://files.doc.altium.com/sites/default/files/wiki_attachments/323524/TrackSliding2.gif?VersionId=ApFgP5cESyhX0.a8PgLwkAn8OBtl4Tmy)](https://i0.wp.com/ms-technology.vn/wp-content/uploads/2022/08/2_HS.gif?fit=889%2C895&ssl=1).gif" width="370" height="370" alt="Embedded System Animation">
