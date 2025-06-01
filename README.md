@@ -7,7 +7,8 @@
 ---
 
 <img src="code.png" align="right" width="370" height="370" alt="Coding Illustration">
-<img src="https://i.pinimg.com/originals/31/84/fd/3184fddee90fc94780ca6618c52713ca.gif" width="370" height="370" alt="Hi Gif">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="370" height="370" alt="Developer Coding GIF">
 
 - 🎓 **Ph.D. in Power Electronics**  
   Extensive research and development in high-efficiency power conversion systems.
