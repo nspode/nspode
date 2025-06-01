@@ -10,11 +10,11 @@
 </p>
 
 ---
- <img src="https://i0.wp.com/ms-technology.vn/wp-content/uploads/2022/08/2_HS.gif?fit=889%2C895&ssl=1" width="370" height="370" alt="Circuit Board Animation">
+ 
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="370" height="370" alt="Developer Coding GIF">
-
+  <img src="https://i0.wp.com/ms-technology.vn/wp-content/uploads/2022/08/2_HS.gif?fit=889%2C895&ssl=1" width="370" height="370" alt="Circuit Board Animation">
 </div>
 
 - 🎓 **Ph.D. in Power Electronics**  
