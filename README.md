@@ -10,10 +10,10 @@
 </p>
 
 ---
-
+ <img src="https://cdn.dribbble.com/users/760915/screenshots/2321861/digital-unknown-dribbble-futuristic-interface.gif" width="370" height="370" alt="Circuit Board Animation">
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="370" height="370" alt="Developer Coding GIF">
- <img src="https://cdn.dribbble.com/users/760915/screenshots/2321861/digital-unknown-dribbble-futuristic-interface.gif" width="370" height="370" alt="Circuit Board Animation">
+
 </div>
 
 - 🎓 **Ph.D. in Power Electronics**  
