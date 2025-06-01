@@ -1,8 +1,13 @@
-<img src="banner.png" alt="Nelson's Banner" width="100%">
-
-<h1 align="center">Hi there 👋, I'm Nelson</h1>
-<h3 align="center">Full-Stack Developer | Embedded Systems Engineer | Ph.D. in Power Electronics</h3>
+<h1 align="center">Welcome to Nelson's GitHub</h1>
+<h3 align="center">Full-Stack Developer · Embedded Systems Engineer · Ph.D. in Power Electronics</h3>
 <h4 align="center">Bridging the gap between hardware and software to create innovative solutions.</h4>
+
+---
+
+<p align="center">
+  <strong>🧠 Developer with over 20 years of experience in hardware and software design.</strong><br>
+  Passionate about <strong>Power Electronics</strong>, <strong>IoT (Internet of Things)</strong>, and high-performance embedded systems.
+</p>
 
 ---
 
