@@ -14,7 +14,7 @@
 <img src="code.png" align="right" width="370" height="370" alt="Coding Illustration">
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="370" height="370" alt="Developer Coding GIF">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/embedded-system-6241414-5107187.gif" width="370" height="370" alt="Embedded System Animation">
+  <img src="[https://cdn.iconscout.com/lottie/premium/thumb/embedded-system-6241414-5107187.gif](https://files.doc.altium.com/sites/default/files/wiki_attachments/323524/TrackSliding2.gif?VersionId=ApFgP5cESyhX0.a8PgLwkAn8OBtl4Tmy)" width="370" height="370" alt="Embedded System Animation">
 </div>
 
 - 🎓 **Ph.D. in Power Electronics**  
@@ -46,7 +46,7 @@
 ## 📫 Connect with Me
 
 - Email: [nelson@circuitworks.com.br](mailto:nelson@circuitworks.com.br)
-- LinkedIn: [linkedin.com/in/nelson](https://linkedin.com/in/nelson)
+- LinkedIn: [linkedin.com/in/nelson](https://linkedin.com/in/nelsonspode)
 
 ---
 
