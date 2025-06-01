@@ -52,29 +52,18 @@ Welcome to my GitHub profile! I'm a passionate developer and engineer with a str
 
 ### 📈 GitHub Stats
 
-![Nelson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Nelson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nspode&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nspode&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Personal Website](https://your-personal-website.com)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/nelsonspode)
+- [Email](mailto:nelson@circuitworks.com.br)
 
 Feel free to reach out for collaborations, consulting, or just a tech chat!
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Power Electronics in Modern Applications](https://your-blog.com/power-electronics)
-- [Integrating React Native with Embedded Systems](https://your-blog.com/react-native-embedded)
-- [Optimizing Node.js Backend for IoT Devices](https://your-blog.com/nodejs-iot)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
